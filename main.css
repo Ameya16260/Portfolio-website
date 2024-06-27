@@ -52,7 +52,7 @@
 }
 .home{
     height:800px;
-    background-image:url('1.jpg');
+    background-image:url('./images/1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     border: 1px solid white;
